@@ -1,7 +1,7 @@
 version: 1
 extends:
-- https://raw.githubusercontent.com/Open-Scholar-Nexus/oaktree-sapling/v0.1.0/nexus.yml
-- https://raw.githubusercontent.com/Open-Scholar-Nexus/oaktree-sapling-config/v0.1.0/climatematch-2023.yml
+- https://raw.githubusercontent.com/impact-scholars/impact-scholars.github.io/v0.1.0/nexus.yml
+- https://raw.githubusercontent.com/impact-scholars/isp-actions-config/v0.1.0/climatematch-2023.yml
 
 project:
   doi: 10.5281/zenodo.12206635
@@ -53,7 +53,7 @@ project:
   - Argentinian Forest
   - Satellite Imaging
   - Conservation Strategies
-  github: https://github.com/Open-Scholar-Nexus/barrionuevo-2023-burned-area-patagonia
+  github: https://github.com/impact-scholars/barrionuevo-2023-burned-area-patagonia
   bibliography:
   - bib.bib
   downloads:
